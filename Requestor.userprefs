@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_403_for_Nexus_One_by_Google" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Requestor.Android\MainActivity.cs" Line="4" Column="4" />
+      <File FileName="Requestor.Application\ClientState.cs" Line="36" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Requestor.Android MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>
